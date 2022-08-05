@@ -4,6 +4,7 @@ Description of my previous developments:
 Ramadan/Prayer Web Progressive Web Application:
 https://medium.com/@omaros/the-need-for-a-modern-and-better-athan-app-72c63f75ff42
 -	PWA that processes a variety of data to display prayer times and is specifically catered for the Islamic month of Ramadan. The app utilizes location data and displays a modern timer, along with curated, useful features to benefit users, and is also optimized for mobile and desktop devices. I have also written an article on Medium that highlights features and use-cases for this application. This was a one of the projects that I converted to react, see the original application, and the current version
+-	https://sensational-seahorse-48907b.netlify.app/
 
 https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-a233-e3fc75abaa0f.mov
 
