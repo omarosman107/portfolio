@@ -14,8 +14,11 @@ https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-
 
 Work for the Islamic Center of Lansing;
 •	Personally created a unique and proprietary software to better facilitate prayer times, including a pipeline that enabled different teams to work together, with a front-end app on their website for patrons to see important information with minimal downtime.
-- Created a zakat calculator that helped people figure out the correct amount to donate during the year.
+<img width="1512" alt="Screen Shot 2022-05-01 at 9 46 04 PM" src="https://user-images.githubusercontent.com/19752839/183224484-bf01e184-3dfe-4572-a422-dbfaa18cb6e0.png">
+<img width="528" alt="Screen Shot 2022-05-07 at 1 52 54 PM" src="https://user-images.githubusercontent.com/19752839/183224503-b749f788-4cb9-4efa-b805-4148588f8067.png">
 
+- Created a zakat calculator that helped people figure out the correct amount to donate during the year.
+https://user-images.githubusercontent.com/19752839/183224510-073cc978-1848-448e-a0ca-f234755b0a9b.mov
 
 https://user-images.githubusercontent.com/19752839/183224130-9042a21f-b16b-4751-aa55-7a667238f577.mov
 
