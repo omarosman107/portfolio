@@ -25,6 +25,15 @@ https://user-images.githubusercontent.com/19752839/183224510-073cc978-1848-448e-
 https://user-images.githubusercontent.com/19752839/183224130-9042a21f-b16b-4751-aa55-7a667238f577.mov
 
 Video Streaming Web Application
--	Created a custom video player, using HTML and JavaScript, utilizing built in APIs in the browser like Local Storage. Cloud services including Firebase. Fetch library used to gather data (titles, hyperlinks) from resources, and further optimization to save internet usage, like preloading images only when scrolling to that specific section. 
+-	Created a custom video player, using HTML and JavaScript, utilizing built in APIs in the browser like Local Storage. Cloud services including Firebase. FetchJS library used to gather data (titles, hyperlinks) from external resources, and further optimization to save internet usage, like preloading images only when scrolling to that specific section. 
+
+Some tid-bits:
+-	originally started with VideoJs as the core video player but moved to HLS.js for stability, better customizability and integration with a custom video UI.
+-	 processing data from variety of sources to organize and store in a general format (JSON). 
+-	 "Continue watching" section updates live, listening for changes in FireBase and localStorage.
+-	 Different sized images served depending on what browser, and PPI a device has.
+-	 anonymous user IDs to store in DB. QR code feature to sync multiple devices including smartphones.
+
+
 ![IMG_0991](https://user-images.githubusercontent.com/19752839/183224147-c09f98a5-0af8-43c9-bfc6-012bf6513898.PNG)
 <img width="341" alt="Screen Shot 2022-05-07 at 1 44 56 PM" src="https://user-images.githubusercontent.com/19752839/183224163-23af5d3a-d629-4307-8105-39c4f4fb9052.png">
