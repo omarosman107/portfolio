@@ -3,7 +3,8 @@ Description of my previous developments:
 
 Ramadan/Prayer Web Progressive Web Application:
 https://medium.com/@omaros/the-need-for-a-modern-and-better-athan-app-72c63f75ff42
--	PWA that processes a variety of data to display prayer times and is specifically catered for the Islamic month of Ramadan. The app utilizes location data and displays a modern timer, along with curated, useful features to benefit users, and is also optimized for mobile and desktop devices. I have also written an article on Medium that highlights features and use-cases for this application. This was a one of the projects that I converted to react, see the original application, and the current version
+-	PWA that processes a variety of data to display prayer times and is specifically catered for the Islamic month of Ramadan. The app utilizes location data and displays a modern timer, along with curated, useful features to benefit users, and is also optimized for mobile and desktop devices. I have also written an article on Medium that highlights features and use-cases for this application. This was a one of the projects that I converted to react, see the original application, and the current version.
+AthanApp has been maintained for the last few months to ensure stability, along with general improvments and additional features. 
 -	https://sensational-seahorse-48907b.netlify.app/
 
 https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-a233-e3fc75abaa0f.mov
@@ -18,7 +19,7 @@ Work for the Islamic Center of Lansing;
 <img width="1512" alt="Screen Shot 2022-05-01 at 9 46 04 PM" src="https://user-images.githubusercontent.com/19752839/183224484-bf01e184-3dfe-4572-a422-dbfaa18cb6e0.png">
 <img width="528" alt="Screen Shot 2022-05-07 at 1 52 54 PM" src="https://user-images.githubusercontent.com/19752839/183224503-b749f788-4cb9-4efa-b805-4148588f8067.png">
 
-- Created a zakat calculator that helped people figure out the correct amount to donate during the year.
+- Created an Islamic zakat calculator that helped people in my community figure out the correct amount of money to donate during the year.
 https://user-images.githubusercontent.com/19752839/183224510-073cc978-1848-448e-a0ca-f234755b0a9b.mov
 
 https://user-images.githubusercontent.com/19752839/183224130-9042a21f-b16b-4751-aa55-7a667238f577.mov
