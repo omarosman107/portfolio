@@ -33,6 +33,7 @@ Some tid-bits:
 -	 "Continue watching" section updates live, listening for changes in FireBase and localStorage.
 -	 Different sized images served depending on what browser, and PPI a device has.
 -	 anonymous user IDs to store in DB. QR code feature to sync multiple devices including smartphones.
+-  Dark mode, depending on system display settings.
 
 
 ![IMG_0991](https://user-images.githubusercontent.com/19752839/183224147-c09f98a5-0af8-43c9-bfc6-012bf6513898.PNG)
