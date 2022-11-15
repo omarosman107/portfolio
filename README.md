@@ -3,6 +3,13 @@ Description of my previous developments:
 
 Ramadan/Prayer Web Progressive Web Application:
 https://medium.com/@omaros/the-need-for-a-modern-and-better-athan-app-72c63f75ff42
+
+•	Built a modern prayer app for both mobile and desktop users using React, HTML and, CSS, leading to 3.7k+ unique sessions
+•	Maintaining and adding changes over time including optimizations, performance improvements, and UX to enhance the overall experience for each user
+•	Utilized Git when pushing updates to main branch to allow for future collaboration and the ability to see past commit history, or previous versions of code
+•	Improved organizational skills by publishing an article on Medium that highlights features and use-cases for this application to further elaborate on the processes and reasoning of certain choices during creation
+
+
 -	PWA that processes a variety of data to display prayer times and is specifically catered for the Islamic month of Ramadan. The app utilizes location data and displays a modern timer, along with curated, useful features to benefit users, and is also optimized for mobile and desktop devices. I have also written an article on Medium that highlights features and use-cases for this application. This was a one of the projects that I converted to react, see the original application, and the current version.
 AthanApp has been maintained for the last few months to ensure stability, along with general improvments and additional features. 
 -	https://sensational-seahorse-48907b.netlify.app/
@@ -16,6 +23,11 @@ https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-
 
 Work for the Islamic Center of Lansing;
 •	Personally created a unique and proprietary software to better facilitate prayer times, including a pipeline that enabled different teams to work together, with a front-end app on their website for patrons to see important information with minimal downtime.
+
+•	Designed and maintained proprietary software using OOP and JSON databases to create an efficient pipeline when handling future prayer times utilizing JavaScript, while serving 320+ individuals (majority of patrons) each month and counting
+•	Improved communications skills by meeting with multiple leaders over numerous months to identify critical process improvements and efficient solutions to engineering problems
+•	Participated in meetings and recording notes of essential deadlines and components on Google Workspace’s, Notion, and Microsoft Word, Excel, PowerPoint to ensure needs of the board were met
+
 <img width="1512" alt="Screen Shot 2022-05-01 at 9 46 04 PM" src="https://user-images.githubusercontent.com/19752839/183224484-bf01e184-3dfe-4572-a422-dbfaa18cb6e0.png">
 <img width="528" alt="Screen Shot 2022-05-07 at 1 52 54 PM" src="https://user-images.githubusercontent.com/19752839/183224503-b749f788-4cb9-4efa-b805-4148588f8067.png">
 
