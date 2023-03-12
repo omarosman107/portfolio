@@ -32,7 +32,13 @@ Work for the Islamic Center of Lansing;
 
 
 <img width="1512" alt="Screen Shot 2022-05-01 at 9 46 04 PM" src="https://user-images.githubusercontent.com/19752839/183224484-bf01e184-3dfe-4572-a422-dbfaa18cb6e0.png">
+
+Code in JSON:
 <img width="528" alt="Screen Shot 2022-05-07 at 1 52 54 PM" src="https://user-images.githubusercontent.com/19752839/183224503-b749f788-4cb9-4efa-b805-4148588f8067.png">
+
+Predictive machine learning algorithm (MLPRegressor & Gradient Booster):
+<img width="1069" alt="Screenshot 2023-03-11 at 10 51 45 PM" src="https://user-images.githubusercontent.com/19752839/224523326-7af96ac7-3f70-447a-8704-1222b226041d.png">
+
 
 - Created an Islamic zakat calculator that helped people in my community figure out the correct amount of money to donate during the year.
 https://user-images.githubusercontent.com/19752839/183224510-073cc978-1848-448e-a0ca-f234755b0a9b.mov
