@@ -14,7 +14,12 @@ https://medium.com/@omaros/the-need-for-a-modern-and-better-athan-app-72c63f75ff
 AthanApp has been maintained for the last few months to ensure stability, along with general improvments and additional features. 
 -	https://athan-app.vercel.app
 
+Base Application written in HTML, JS & CSS:
+
 https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-a233-e3fc75abaa0f.mov
+
+
+AthanApp written in ReactJS, TypeScript, HTML,CSS, while utilizing modern data-structures and optimizations (as of August 2022):
 
 <img width="295" alt="Screen Shot 2022-08-05 at 7 46 45 PM" src="https://user-images.githubusercontent.com/19752839/183224349-4c7755fa-ab62-4b03-8349-84cd733c38b3.png">
 
