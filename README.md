@@ -12,7 +12,7 @@ https://medium.com/@omaros/the-need-for-a-modern-and-better-athan-app-72c63f75ff
 
 -	PWA that processes a variety of data to display prayer times and is specifically catered for the Islamic month of Ramadan. The app utilizes location data and displays a modern timer, along with curated, useful features to benefit users, and is also optimized for mobile and desktop devices. I have also written an article on Medium that highlights features and use-cases for this application. This was a one of the projects that I converted to react, see the original application, and the current version.
 AthanApp has been maintained for the last few months to ensure stability, along with general improvments and additional features. 
--	https://sensational-seahorse-48907b.netlify.app/
+-	https://athan-app.vercel.app
 
 https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-a233-e3fc75abaa0f.mov
 
@@ -24,9 +24,12 @@ https://user-images.githubusercontent.com/19752839/183224044-00f32d53-f409-4c37-
 Work for the Islamic Center of Lansing;
 •	Personally created a unique and proprietary software to better facilitate prayer times, including a pipeline that enabled different teams to work together, with a front-end app on their website for patrons to see important information with minimal downtime.
 
-•	Designed and maintained proprietary software using OOP and JSON databases to create an efficient pipeline when handling future prayer times utilizing JavaScript, while serving 320+ individuals (majority of patrons) each month and counting
-•	Improved communications skills by meeting with multiple leaders over numerous months to identify critical process improvements and efficient solutions to engineering problems
-•	Participated in meetings and recording notes of essential deadlines and components on Google Workspace’s, Notion, and Microsoft Word, Excel, PowerPoint to ensure needs of the board were met
+
+•	Developed and maintained custom software using OOP and JSON databases to create an efficient pipeline for handling future prayer times using AI and manual procedures with JavaScript, serving over 1.8k patrons.
+•	Increased efficiency in application development by meeting with multiple leaders over several months to identify critical process improvements and develop sustainable solutions to engineering problems.
+•	Participated in meetings and recorded notes of essential deadlines and components using Google Workspace, Notion, Microsoft Word, Excel, and PowerPoint to ensure the needs of the board were met.
+•	Increased operational efficiency and decreased reliance on manual tasks by developing a machine learning algorithm to predict Iqama times using historical data generated via a custom software and pipeline, outperforming the modulus rounding approach.
+
 
 <img width="1512" alt="Screen Shot 2022-05-01 at 9 46 04 PM" src="https://user-images.githubusercontent.com/19752839/183224484-bf01e184-3dfe-4572-a422-dbfaa18cb6e0.png">
 <img width="528" alt="Screen Shot 2022-05-07 at 1 52 54 PM" src="https://user-images.githubusercontent.com/19752839/183224503-b749f788-4cb9-4efa-b805-4148588f8067.png">
